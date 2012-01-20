@@ -1,1 +1,39 @@
 TEMPLATES FOR KMOD
+
+THIS IS NOT OFFICIAL UNIVERSITY REPOSITORY
+IT IS PRIVATE LECTURER'S REPOSITORY
+YOU CAN VIEW, MODIFY AND DISTRIBUTE ALL FILES IN THIS REPOSITORY
+WITHOUT ANY NOTIFICATION TO AUTHOR
+
+Author: Anton Alekseiev< nullakilla@gmail.com >
+Affiliate: Chernigiv State Technological University
+
+############################################################################
+
+For conversion tex files into pdf you have to run:
+
+$ pdflatex <filename>
+
+where <filename> is the name of tex file for which you want to generate pdf
+
+############################################################################
+
+System requirements:
+	LaTeX installed to compile tex files into pdf
+	OpenOffice.org Writer or Libreoffice Writer to edit or view odt
+	Plain text editor to edit or view tex files
+	PDF viewer to view pdf files
+
+############################################################################
+
+To edit or view tex files you need just plain-text editor
+
+Terminal based text editors:
+	vi, vim, nano etc.
+
+Graphical user interface text editors:
+	gedit, kwrite etc.
+
+TeX editors:
+	texmaker, kile etc.
+
